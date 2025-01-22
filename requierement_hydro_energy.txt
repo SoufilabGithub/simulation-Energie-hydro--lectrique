@@ -1,0 +1,10 @@
+Python
+Streamlit
+openpyxl
+pandas
+scikit-learn
+numpy
+sklearn.neighbors 
+sklearn.metrics 
+sklearn.model_selection
+datetime
